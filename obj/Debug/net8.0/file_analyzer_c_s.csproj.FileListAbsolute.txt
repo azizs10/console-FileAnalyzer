@@ -1,0 +1,14 @@
+/home/azizsadonov/Documents/file_analyzer_c_s/bin/Debug/net8.0/file_analyzer_c_s
+/home/azizsadonov/Documents/file_analyzer_c_s/bin/Debug/net8.0/file_analyzer_c_s.deps.json
+/home/azizsadonov/Documents/file_analyzer_c_s/bin/Debug/net8.0/file_analyzer_c_s.runtimeconfig.json
+/home/azizsadonov/Documents/file_analyzer_c_s/bin/Debug/net8.0/file_analyzer_c_s.dll
+/home/azizsadonov/Documents/file_analyzer_c_s/bin/Debug/net8.0/file_analyzer_c_s.pdb
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.AssemblyInfoInputs.cache
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.AssemblyInfo.cs
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.csproj.CoreCompileInputs.cache
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.dll
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/refint/file_analyzer_c_s.dll
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.pdb
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/file_analyzer_c_s.genruntimeconfig.cache
+/home/azizsadonov/Documents/file_analyzer_c_s/obj/Debug/net8.0/ref/file_analyzer_c_s.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "file_analyzer_c_s/1.0.0": {
+        "runtime": {
+          "file_analyzer_c_s.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "file_analyzer_c_s/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
